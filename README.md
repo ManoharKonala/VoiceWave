@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManoharKonala/VoiceWave/main/VoiceWave/frontend/public/logo192.png" alt="VoiceWave Logo" width="120" />
+</p>
 
 <h1 align="center">🎙️ VoiceWave</h1>
 
@@ -32,6 +34,16 @@
 | JWT, Cloudinary | Material-UI (MUI) |
 | Socket.IO | Formik, Yup |
 |           | Axios, react-h5-audio-player |
+
+---
+
+## 📱 Live Demo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Live Audio Demo" width="350" />
+  <br/>
+  <i>Experience seamless audio sharing and discovery!</i>
+</p>
 
 ---
 
@@ -83,5 +95,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 <p align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Sound Wave" width="200" />
   <br/>
-  <b>Let your voice be heard with VoiceWave!</b>
+  <b>Let your voice be heard with <span style="color:#1976d2;">VoiceWave</span>! 🎧</b>
 </p>
