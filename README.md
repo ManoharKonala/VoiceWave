@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManoharKonala/VoiceWave/main/VoiceWave/frontend/public/logo192.png" alt="VoiceWave Logo" width="120" />
-</p>
+
 
 <h1 align="center">🎙️ VoiceWave</h1>
 
