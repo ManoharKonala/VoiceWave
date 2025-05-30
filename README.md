@@ -1,24 +1,49 @@
-# VoiceWave
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManoharKonala/VoiceWave/main/VoiceWave/frontend/public/logo192.png" alt="VoiceWave Logo" width="120" />
+</p>
 
-VoiceWave is a social audio platform built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript on the frontend. It allows users to record, share, and listen to audio content, with rich social features.
+<h1 align="center">🎙️ VoiceWave</h1>
 
-## Core Functionality
-- User Authentication (JWT, registration, login, protected routes)
-- Audio Features (upload to Cloudinary, playback, feed, like/comment, user collections)
-- Social Features (follow/unfollow, activity feed, user stats, comments)
+<p align="center">
+  <b>NextGen Social Audio Platform</b><br/>
+  <i>Record, share, and listen to audio content. Connect with your community through sound.</i>
+</p>
 
-## Technical Stack
-- **Backend:** Node.js, Express, MongoDB (Mongoose), JWT, Cloudinary, Socket.IO
-- **Frontend:** React, TypeScript, Redux Toolkit, Material-UI, Formik, Yup, react-h5-audio-player, Axios
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Wave Animation" width="300" />
+</p>
 
-## Project Structure
-```
+---
+
+## 🚀 Features
+
+- 🔐 <b>User Authentication</b> (JWT, registration, login, protected routes)
+- 🎵 <b>Audio Upload & Playback</b> (Cloudinary, custom player, infinite feed)
+- ❤️ <b>Social Interactions</b> (like, comment, follow, activity feed)
+- 👤 <b>User Profiles</b> (audio collections, stats)
+- 💬 <b>Real-time</b> (Socket.IO for instant updates)
+
+---
+
+## 🛠️ Tech Stack
+
+| Backend | Frontend |
+| ------- | -------- |
+| Node.js, Express | React, TypeScript |
+| MongoDB (Mongoose) | Redux Toolkit |
+| JWT, Cloudinary | Material-UI (MUI) |
+| Socket.IO | Formik, Yup |
+|           | Axios, react-h5-audio-player |
+
+---
+
+## 📁 Project Structure
+
+```text
 VoiceWave/
   backend/
     server.js
     models/
-      User.js
-      Audio.js
     controllers/
     routes/
     middleware/
@@ -31,11 +56,34 @@ VoiceWave/
       hooks/
 ```
 
-## Recommendations for Improvement
-- Add pagination, code splitting, rate limiting, and better CORS
-- Add audio editing, search, transcription, offline support
-- Improve test coverage and documentation
+---
+
+## 🌟 Screenshots
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/171902363/235123456-voicewave-feed-demo.gif" alt="VoiceWave Feed Demo" width="600" />
+  <br/>
+  <i>Modern, responsive audio feed and player</i>
+</p>
 
 ---
 
-This file provides an overview and guidance for contributors. See each folder for more details.
+## 📝 Recommendations
+
+- ⚡ Add pagination, code splitting, rate limiting, and better CORS
+- 🎚️ Add audio editing, search, transcription, offline support
+- 🧪 Improve test coverage and documentation
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Sound Wave" width="200" />
+  <br/>
+  <b>Let your voice be heard with VoiceWave!</b>
+</p>
